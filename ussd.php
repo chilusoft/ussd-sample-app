@@ -2,7 +2,7 @@
 /* 
 * Author : Chilufya Mukuka @ChilusoftCorp
 * check more interesting projects at my github url -- > github.com/chilusoft
-* App Name : Moyo Life USSD Application written in PHP for consumer deployment
+* App Name : XXXXXXX USSD Application written in PHP for consumer deployment
 */
 
 require_once('dbh.php');
